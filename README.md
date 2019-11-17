@@ -3,6 +3,7 @@
 - Can keep up with all the Magma packages on your system?
 - and their dependencies?
 - Tired of having of managing them one by one?
+
 Then look no further, PIMP will "manage" all your Magma packages for you.
 
 # Spec
