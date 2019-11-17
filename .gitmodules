@@ -1,21 +1,21 @@
 [submodule "endomorphisms"]
 	path = endomorphisms
-	url = git@github.com:edgarcosta/endomorphisms.git
+	url = https://github.com/edgarcosta//endomorphisms.git
 [submodule "curve_reconstruction"]
 	path = curve_reconstruction
-	url = git@github.com:JRSijsling/curve_reconstruction.git
+	url = https://github.com/JRSijsling/curve_reconstruction.git
 [submodule "RiemannSurfaces"]
 	path = RiemannSurfaces
-	url = git@github.com:JRSijsling/RiemannSurfaces.git
+	url = https://github.com/JRSijsling/RiemannSurfaces.git
 [submodule "gluing"]
 	path = gluing
-	url = git@github.com:JRSijsling/gluing.git
+	url = https://github.com/JRSijsling/gluing.git
 [submodule "quartic_reconstruction"]
 	path = quartic_reconstruction
-	url = git@github.com:JRSijsling/quartic_reconstruction.git
+	url = https://github.com/JRSijsling/quartic_reconstruction.git
 [submodule "quartic_isomorphisms"]
 	path = quartic_isomorphisms
-	url = git@github.com:JRSijsling/quartic_isomorphisms.git
+	url = https://github.com/JRSijsling/quartic_isomorphisms.git
 [submodule "picard_curves"]
 	path = picard_curves
-	url = git@github.com:JRSijsling/picard_curves.git
+	url = https://github.com/JRSijsling/picard_curves.git
