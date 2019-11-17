@@ -8,7 +8,8 @@ Then look no further, PIMP will "manage" all your Magma packages for you.
 
 # Spec
 
-Sadly you still to attach each spec individually to your session.
+Sadly you still need to attach each spec individually to your session. 
+
 
 
 # Updating
