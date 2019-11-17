@@ -6,9 +6,17 @@
 
 Then look no further, PIMP will "manage" all your Magma packages for you.
 
-# Spec
+# Inspalling
 
-Sadly you still need to attach each spec individually to your session. 
+```
+git clone --recurse-submodules -j8 git@github.com:edgarcosta/PIMP.git
+```
+or
+```
+git clone --recurse-submodules -j8 https://github.com/edgarcosta/PIMP.git
+```
+
+For now, you still need to attach each spec individually to your session. 
 
 
 
