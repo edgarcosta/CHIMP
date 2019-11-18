@@ -16,6 +16,3 @@
 [submodule "quartic_isomorphisms"]
 	path = quartic_isomorphisms
 	url = https://github.com/JRSijsling/quartic_isomorphisms.git
-[submodule "picard_curves"]
-	path = picard_curves
-	url = https://github.com/JRSijsling/picard_curves.git
