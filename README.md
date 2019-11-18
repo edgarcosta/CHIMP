@@ -1,23 +1,23 @@
-# PIMP: Pimp Installs Magma Packages
+# CHIMP: Chimp Harmoniously Installs Magma Packages  🐒🦄🚀🌋📦
 
 - Can keep up with all the Magma packages on your system?
 - and their dependencies?
 - Tired of having of managing them one by one?
 
-Then look no further, PIMP will "manage" all your Magma packages for you.
+Then look no further, CHIMP will manage all your Magma packages for you.
 
 # Installing
 
 
 ```
-git clone --recurse-submodules -j8 git@github.com:edgarcosta/PIMP.git
+git clone --recurse-submodules -j8 git@github.com:edgarcosta/CHIMP.git
 ```
 or
 ```
-git clone --recurse-submodules -j8 https://github.com/edgarcosta/PIMP.git
+git clone --recurse-submodules -j8 https://github.com/edgarcosta/CHIMP.git
 ```
 
-and you only need to attach the `PIMP.spec`
+and you only need to attach the `CHIMP.spec`
 
 
 # Updating
