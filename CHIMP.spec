@@ -38,6 +38,14 @@
     }
   }
 
+  hcperiods
+  {
+    magma
+    {
+      +spec
+    }
+  }
+
   pAdicGaloisGroup
   {
     +spec

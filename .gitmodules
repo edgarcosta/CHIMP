@@ -19,12 +19,19 @@
 [submodule "MagmaUtils"]
 	path = MagmaUtils
 	url = https://github.com/cjdoris/MagmaUtils.git
+  ignore = dirty
 [submodule "Genus2Conductor"]
 	path = Genus2Conductor
 	url = https://github.com/cjdoris/Genus2Conductor.git
+  ignore = dirty
 [submodule "ExactpAdics2"]
 	path = ExactpAdics2
 	url = https://github.com/cjdoris/ExactpAdics2.git
+  ignore = dirty
 [submodule "pAdicGaloisGroup"]
 	path = pAdicGaloisGroup
 	url = https://github.com/cjdoris/pAdicGaloisGroup.git
+  ignore = dirty
+[submodule "hcperiods"]
+	path = hcperiods
+	url = https://github.com/pascalmolin/hcperiods.git
