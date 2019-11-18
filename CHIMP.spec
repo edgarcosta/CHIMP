@@ -27,6 +27,14 @@
     }
   }
 
+  echidna
+  {
+    src
+    {
+      +echidna.spec
+    }
+  }
+
   endomorphisms
   {
     endomorphisms

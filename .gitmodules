@@ -38,3 +38,6 @@
 [submodule "pAdicExtensions"]
 	path = pAdicExtensions
 	url = https://github.com/cjdoris/pAdicExtensions.git
+[submodule "echidna"]
+	path = echidna
+	url = https://github.com/edgarcosta/echidna.git
