@@ -1,4 +1,4 @@
-# CHIMP: Chimp Harmoniously Installs Magma Packages
+# CHIMP: Chimp Hopefully Installs Magma Packages
 
 - Can keep up with all the Magma packages on your system?
 - and their dependencies?
