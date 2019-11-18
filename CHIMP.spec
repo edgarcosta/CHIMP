@@ -3,14 +3,17 @@
   {
     +spec
   }
+
   Genus2Conductor
   {
     +spec_ExactpAdics
   }
+
   MagmaUtils
   {
     +spec
   }
+
   RiemannSurfaces
   {
     +spec
