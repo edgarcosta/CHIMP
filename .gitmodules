@@ -1,6 +1,6 @@
 [submodule "endomorphisms"]
 	path = endomorphisms
-	url = https://github.com/edgarcosta//endomorphisms.git
+	url = https://github.com/edgarcosta/endomorphisms.git
 [submodule "curve_reconstruction"]
 	path = curve_reconstruction
 	url = https://github.com/JRSijsling/curve_reconstruction.git
