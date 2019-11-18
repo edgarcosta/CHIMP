@@ -6,7 +6,8 @@
 
 Then look no further, PIMP will "manage" all your Magma packages for you.
 
-# Inspalling
+# Installing
+
 
 ```
 git clone --recurse-submodules -j8 git@github.com:edgarcosta/PIMP.git
