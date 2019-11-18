@@ -38,6 +38,11 @@
     }
   }
 
+  pAdicGaloisGroup
+  {
+    +spec
+  }
+
   gluing
   {
     magma
