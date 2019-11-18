@@ -1,4 +1,4 @@
-# CHIMP: Chimp Harmoniously Installs Magma Packages
+# CHIMP: Chimp Hopefully Installs Magma Packages
 
 - Can keep up with all the Magma packages on your system?
 - and their dependencies?
@@ -28,4 +28,4 @@ git submodule update --init --recursive
 git submodule foreach --recursive git fetch
 git submodule foreach git pull --ff-only origin
 ```
-and considering doing a pull request afterwards.
+and consider doing a pull request afterwards.
