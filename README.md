@@ -17,8 +17,7 @@ or
 git clone --recurse-submodules -j8 https://github.com/edgarcosta/PIMP.git
 ```
 
-For now, you still need to attach each spec individually to your session. 
-
+and you only need to attach the `PIMP.spec`
 
 
 # Updating
