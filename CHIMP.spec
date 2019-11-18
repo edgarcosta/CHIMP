@@ -51,6 +51,11 @@
     +spec
   }
 
+  pAdicExtensions
+  {
+    +spec
+  }
+
   gluing
   {
     magma

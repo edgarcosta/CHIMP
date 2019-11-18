@@ -35,3 +35,6 @@
 [submodule "hcperiods"]
 	path = hcperiods
 	url = https://github.com/pascalmolin/hcperiods.git
+[submodule "pAdicExtensions"]
+	path = pAdicExtensions
+	url = https://github.com/cjdoris/pAdicExtensions.git
