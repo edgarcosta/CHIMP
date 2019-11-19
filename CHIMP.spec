@@ -46,6 +46,11 @@
     }
   }
 
+  gists
+  {
+    +gists.spec
+  }
+
   hcperiods
   {
     magma

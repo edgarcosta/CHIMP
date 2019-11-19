@@ -38,6 +38,11 @@
 [submodule "pAdicExtensions"]
 	path = pAdicExtensions
 	url = https://github.com/cjdoris/pAdicExtensions.git
+  ignore = dirty
 [submodule "echidna"]
 	path = echidna
 	url = https://github.com/edgarcosta/echidna.git
+[submodule "gists/dc2935ffb56d5a7e492980ab984abaf4"]
+	path = gists/sutherland
+	url = https://gist.github.com/52eb0a8de56d78724be6c07f63ac2caa.git
+  ignore = dirty
