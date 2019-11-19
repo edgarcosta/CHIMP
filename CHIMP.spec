@@ -59,6 +59,11 @@
     }
   }
 
+  hermine
+  {
+    +Hermite.spec
+  }
+
   pAdicGaloisGroup
   {
     +spec

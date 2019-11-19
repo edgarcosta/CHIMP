@@ -46,3 +46,6 @@
 	path = gists/sutherland
 	url = https://gist.github.com/52eb0a8de56d78724be6c07f63ac2caa.git
   ignore = dirty
+[submodule "hermite"]
+	path = hermite
+	url = https://github.com/dansme/hermite.git
