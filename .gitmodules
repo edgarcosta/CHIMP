@@ -42,7 +42,3 @@
 [submodule "echidna"]
 	path = echidna
 	url = https://github.com/edgarcosta/echidna.git
-[submodule "gists/dc2935ffb56d5a7e492980ab984abaf4"]
-	path = gists/sutherland
-	url = https://gist.github.com/dc2935ffb56d5a7e492980ab984abaf4.git
-  ignore = dirty
