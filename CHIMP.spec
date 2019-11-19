@@ -59,7 +59,7 @@
     }
   }
 
-  hermine
+  hermite
   {
     +Hermite.spec
   }
