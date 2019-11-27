@@ -24,6 +24,6 @@ and you only need to attach the `CHIMP.spec`
 
 You can fetch the most recent version of all packages by doing:
 ```
-git submodule update --remote --jobs=10
+git pull && git submodule update --remote --jobs=10
 ```
 and consider doing a pull request afterwards.
