@@ -27,3 +27,10 @@ You can fetch the most recent version of all packages by doing:
 git pull && git submodule update --remote --jobs=10
 ```
 and consider doing a pull request afterwards.
+
+# Notes
+
+The package `echidna` is currently disabled from `CHIMP.spec`, as `MaximalOrder` is broken and it also
+overwrites the Magma intrinsic
+
+

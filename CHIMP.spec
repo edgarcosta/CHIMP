@@ -31,7 +31,7 @@
   {
     src
     {
-      +echidna.spec
+      #+echidna.spec
     }
   }
 
