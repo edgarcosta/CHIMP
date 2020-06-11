@@ -11,11 +11,11 @@ Then look no further, CHIMP will manage all your Magma packages for you.
 
 Move to the directory where you would like to install CHIMP and do
 ```
-git clone --recurse-submodules -j8 git@github.com:edgarcosta/CHIMP.git
-```
-or
-```
 git clone --recurse-submodules -j8 https://github.com/edgarcosta/CHIMP.git
+```
+or if you have a GitHub account
+```
+git clone --recurse-submodules -j8 git@github.com:edgarcosta/CHIMP.git
 ```
 
 and you only need to attach the `CHIMP.spec`, by doing
