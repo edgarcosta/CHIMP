@@ -16,7 +16,8 @@
 
   RiemannSurfaces
   {
-    +spec
+    # included in Magma since 2.25
+    #+spec
   }
 
   curve_reconstruction
@@ -55,7 +56,8 @@
   {
     magma
     {
-      +spec
+      # included in Magma since 2.25
+      #+spec
     }
   }
 

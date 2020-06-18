@@ -39,7 +39,9 @@ and consider doing a pull request afterwards.
 
 # Notes
 
-The package `echidna` is currently disabled from `CHIMP.spec`, as `MaximalOrder` is broken and it also
-overwrites the Magma intrinsic
+The packages `RiemannSurfaces`, `hcperiods` and `echidna` are disabled in `CHIMP.spec`. See below for more details.
+
+- The packages `RiemannSurfaces` and `hcperiods` have been incorporated into `Magma` since version 2.25. If you are running an older version, please enable these, uncommenting the appropriate lines `#+spec` -> `+spec`.
+- The package `echidna` defines an intrinsic `MaximalOrder` that is broken at the moment and since it overwrites the `Magma` intrinsic, we disabled the package.
 
 
