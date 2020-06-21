@@ -57,7 +57,7 @@
     magma
     {
       # included in Magma since 2.25
-      +spec
+      #+spec
     }
   }
 
