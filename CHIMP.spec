@@ -17,7 +17,7 @@
   RiemannSurfaces
   {
     # included in Magma since 2.25
-    +spec
+    #+spec
   }
 
   curve_reconstruction
