@@ -99,4 +99,9 @@
       +spec
     }
   }
+
+  ZetaPlaneCurves
+  {
+    +spec
+  }
 }

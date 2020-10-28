@@ -79,3 +79,6 @@
 	url = https://github.com/dansme/hermite.git
   branch = master
   update = rebase
+[submodule "ZetaPlaneCurves"]
+	path = ZetaPlaneCurves
+	url = https://github.com/edgarcosta/ZetaPlaneCurves.git
