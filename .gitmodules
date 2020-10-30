@@ -55,6 +55,7 @@
 [submodule "hcperiods"]
 	path = hcperiods
 	url = https://github.com/pascalmolin/hcperiods.git
+  ignore = dirty
   branch = master
   update = rebase
 [submodule "pAdicExtensions"]
