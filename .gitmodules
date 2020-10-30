@@ -82,5 +82,5 @@
 [submodule "ZetaPlaneCurves"]
 	path = ZetaPlaneCurves
 	url = https://github.com/edgarcosta/ZetaPlaneCurves.git
-  branch = master
+  branch = main
   update = rebase
