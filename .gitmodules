@@ -85,3 +85,6 @@
 	url = https://github.com/edgarcosta/ZetaPlaneCurves.git
   branch = main
   update = rebase
+[submodule "ModFrmGL2"]
+	path = ModFrmGL2
+	url = https://github.com/assaferan/ModFrmGL2.git
