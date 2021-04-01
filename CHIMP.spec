@@ -104,4 +104,13 @@
   {
     +spec
   }
+
+  ModFrmGL2
+  {
+    ModFrmGL2
+    {
+      # disabled for now
+      #+ModFrmGL2.spec
+    }
+  }
 }
