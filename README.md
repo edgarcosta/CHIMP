@@ -43,9 +43,11 @@ and consider doing a pull request afterwards.
 
 # Notes
 
-The packages `RiemannSurfaces`, `hcperiods` and `echidna` are disabled in `CHIMP.spec`. See below for more details.
+The packages `RiemannSurfaces`, `hcperiods`, `echidna` and `ModFrmGL2` are disabled in `CHIMP.spec`. See below for more details.
 
 - The packages `RiemannSurfaces` and `hcperiods` have been incorporated into `Magma` since version 2.25. If you are running an older version, please enable these, uncommenting the appropriate lines `#+spec` -> `+spec`.
 - The package `echidna` defines an intrinsic `MaximalOrder` that is broken at the moment and since it overwrites the `Magma` intrinsic, we disabled the package.
+- The package `ModFrmGL2` overwrites several `Magma` intrinsics, and given what happened with `echidna` we preemptively disabled it.
+
 
 
