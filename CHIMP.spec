@@ -20,6 +20,14 @@
     #+spec
   }
 
+  avisogenies
+  {
+    src
+    {
+      +AVI.spec
+    }
+  }
+
   curve_reconstruction
   {
     magma
