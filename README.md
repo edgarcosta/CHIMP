@@ -2,9 +2,9 @@
 
 - Cannot keep up with all the Magma packages on your system?
 - and their dependencies?
-- Tired of having of manage them one by one?
+- Tired of having to manage and include them one by one?
 
-Then look no further, CHIMP will manage all ~~your~~ Magma packages for you.
+Then look no further, CHIMP will manage and include all ~~your~~ Magma packages for you.
 
 # Installing
 
