@@ -90,4 +90,4 @@
 	url = https://github.com/assaferan/ModFrmGL2.git
 [submodule "avisogenies"]
 	path = avisogenies
-	url = https://github.com/edgarcosta/avisogenies.git
+	url = https://gitlab.inria.fr/roberdam/avisogenies.git
