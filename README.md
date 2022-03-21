@@ -37,7 +37,7 @@ export MAGMA_USER_SPEC="<replace with the installation directory>/CHIMP/CHIMP.sp
 
 You can fetch the most recent version of all packages by doing:
 ```
-git pull && git submodule update --remote --jobs=10
+git pull && git submodule sync --recursive && git submodule update --remote --jobs=10
 ```
 and consider doing a pull request afterwards.
 
