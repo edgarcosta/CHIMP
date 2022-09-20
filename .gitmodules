@@ -91,3 +91,6 @@
 [submodule "avisogenies"]
 	path = avisogenies
 	url = https://gitlab.inria.fr/roberdam/avisogenies.git
+[submodule "MagmaPolred"]
+	path = MagmaPolred
+	url = https://github.com/edgarcosta/MagmaPolred.git
