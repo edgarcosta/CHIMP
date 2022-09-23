@@ -121,4 +121,11 @@
       #+ModFrmGL2.spec
     }
   }
+
+  MagmaPolred
+  {
+    +spec
+  }
+
+
 }
