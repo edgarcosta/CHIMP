@@ -5,7 +5,8 @@
   update = rebase
 [submodule "curve_reconstruction"]
 	path = curve_reconstruction
-	url = https://github.com/JRSijsling/curve_reconstruction.git
+#	url = https://github.com/JRSijsling/curve_reconstruction.git
+	url = https://github.com/edgarcosta/curve_reconstruction.git
   branch = master
   update = rebase
 [submodule "RiemannSurfaces"]
