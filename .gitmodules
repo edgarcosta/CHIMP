@@ -95,3 +95,6 @@
 [submodule "MagmaPolred"]
 	path = MagmaPolred
 	url = https://github.com/edgarcosta/MagmaPolred.git
+[submodule "genus2twists"]
+	path = genus2twists
+	url = https://github.com/rbommel/genus2twists.git
