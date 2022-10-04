@@ -88,13 +88,16 @@
   update = rebase
 [submodule "ModFrmGL2"]
 	path = ModFrmGL2
+	branch = master
 	url = https://github.com/assaferan/ModFrmGL2.git
 [submodule "avisogenies"]
 	path = avisogenies
 	url = https://gitlab.inria.fr/roberdam/avisogenies.git
 [submodule "MagmaPolred"]
 	path = MagmaPolred
+  branch = master
 	url = https://github.com/edgarcosta/MagmaPolred.git
 [submodule "genus2twists"]
 	path = genus2twists
+  branch = main
 	url = https://github.com/rbommel/genus2twists.git
