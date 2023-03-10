@@ -101,3 +101,6 @@
 	path = genus2twists
   branch = main
 	url = https://github.com/rbommel/genus2twists.git
+[submodule "Magma"]
+	path = Magma
+	url = https://github.com/AndrewVSutherland/Magma
