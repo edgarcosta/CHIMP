@@ -104,3 +104,6 @@
 [submodule "Magma"]
 	path = Magma
 	url = https://github.com/AndrewVSutherland/Magma
+[submodule "IntegralPointsConic"]
+	path = IntegralPointsConic
+	url = https://github.com/edgarcosta/IntegralPointsConic.git
