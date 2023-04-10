@@ -132,4 +132,8 @@
     +spec
   }
 
+  Magma
+  {
+    +magma.spec
+  }
 }
