@@ -136,4 +136,9 @@
   {
     +magma.spec
   }
+
+  IntegralPointsConic
+  {
+    +spec
+  }
 }
