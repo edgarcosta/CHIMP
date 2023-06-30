@@ -1,4 +1,5 @@
 {
+  CHIMP.m
   ExactpAdics2
   {
     +spec
