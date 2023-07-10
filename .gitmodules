@@ -92,6 +92,7 @@
 	url = https://github.com/assaferan/ModFrmGL2.git
 [submodule "avisogenies"]
 	path = avisogenies
+	branch = master
 	url = https://gitlab.inria.fr/roberdam/avisogenies.git
 [submodule "MagmaPolred"]
 	path = MagmaPolred
@@ -104,6 +105,8 @@
 [submodule "Magma"]
 	path = Magma
 	url = https://github.com/AndrewVSutherland/Magma
+  branch = main
 [submodule "IntegralPointsConic"]
 	path = IntegralPointsConic
 	url = https://github.com/edgarcosta/IntegralPointsConic.git
+  branch = main
