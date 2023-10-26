@@ -142,4 +142,8 @@
   {
     +spec
   }
+  MichaelStollMagma
+  {
+    +Kum3/G3Hyp.spec
+  }
 }
