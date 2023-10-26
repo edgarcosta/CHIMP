@@ -110,3 +110,7 @@
 	path = IntegralPointsConic
 	url = https://github.com/edgarcosta/IntegralPointsConic.git
   branch = main
+[submodule "MichaelStollMagma"]
+	path = MichaelStollMagma
+	url = https://github.com/edgarcosta/MichaelStollMagma.git
+  branch = main
