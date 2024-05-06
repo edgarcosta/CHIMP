@@ -114,3 +114,6 @@
 	path = MichaelStollMagma
 	url = https://github.com/edgarcosta/MichaelStollMagma.git
   branch = main
+[submodule "cm-calculations"]
+	path = cm-calculations
+	url = https://github.com/JRSijsling/cm-calculations.git

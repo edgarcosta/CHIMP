@@ -146,4 +146,8 @@
   {
     +Kum3/G3Hyp.spec
   }
+  cm-calculations
+  {
+    +magma/spec
+  }
 }
