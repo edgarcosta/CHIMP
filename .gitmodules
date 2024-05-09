@@ -117,3 +117,4 @@
 [submodule "cm-calculations"]
 	path = cm-calculations
 	url = https://github.com/JRSijsling/cm-calculations.git
+	branch = main
