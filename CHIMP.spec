@@ -150,4 +150,8 @@
   {
     +magma/spec
   }
+  Parallel.magma
+  {
+    +spec
+  }
 }

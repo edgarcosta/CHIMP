@@ -118,3 +118,7 @@
 	path = cm-calculations
 	url = https://github.com/JRSijsling/cm-calculations.git
 	branch = main
+[submodule "Parallel.magma"]
+	path = Parallel.magma
+	url = https://github.com/edgarcosta/Parallel.magma.git
+	branch = main
