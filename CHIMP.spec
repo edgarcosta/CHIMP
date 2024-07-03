@@ -154,4 +154,7 @@
   {
     +spec
   }
+  Theta.magma
+  {
+    +spec
 }
