@@ -122,3 +122,7 @@
 	path = Parallel.magma
 	url = https://github.com/edgarcosta/Parallel.magma.git
 	branch = main
+[submodule "Theta.magma"]
+	path = Theta.magma
+	url = https://github.com/edgarcosta/Theta.magma.git
+	branch = main
