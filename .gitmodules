@@ -126,3 +126,7 @@
 	path = Theta.magma
 	url = https://github.com/edgarcosta/Theta.magma.git
 	branch = main
+[submodule "genus3torsion"]
+	path = genus3torsion
+	url = https://github.com/rbommel/genus3torsion.git
+	branch = master
