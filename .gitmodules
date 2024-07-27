@@ -129,4 +129,4 @@
 [submodule "genus3torsion"]
 	path = genus3torsion
 	url = https://github.com/rbommel/genus3torsion.git
-	branch = master
+	branch = main
