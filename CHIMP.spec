@@ -157,4 +157,12 @@
   Theta.magma
   {
     +spec
+  }
+  genus3torsion
+  {
+	  #polredabs.m
+    JacobianArithmetic.m
+    AnalyticJacobian.m
+    Torsion.m
+  }
 }
