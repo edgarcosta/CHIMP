@@ -165,4 +165,8 @@
     AnalyticJacobian.m
     Torsion.m
   }
+  NumericalSolve.magma
+  {
+    +spec
+  }
 }
