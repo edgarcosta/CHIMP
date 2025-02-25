@@ -43,7 +43,8 @@
   update = rebase
 [submodule "ExactpAdics2"]
 	path = ExactpAdics2
-	url = https://github.com/cjdoris/ExactpAdics2.git
+	# url = https://github.com/cjdoris/ExactpAdics2.git
+	url = https://github.com/edgarcosta/ExactpAdics2.git
   ignore = dirty
   branch = master
   update = rebase
