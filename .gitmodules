@@ -31,7 +31,8 @@
   update = rebase
 [submodule "MagmaUtils"]
 	path = MagmaUtils
-	url = https://github.com/cjdoris/MagmaUtils.git
+	# url = https://github.com/cjdoris/MagmaUtils.git
+	url = https://github.com/edgarcosta/MagmaUtils.git
   ignore = dirty
   branch = master
   update = rebase
